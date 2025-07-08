@@ -1,1 +1,3 @@
 HI Welcome to Git and github
+Welcome to SMVIT
+
